@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Requerimientos
-permalink: /Requerimientos/
+title: Titulo
+permalink: /Menu/
 ---
 
 # Capítulo 1. Requisitos del sistema.
